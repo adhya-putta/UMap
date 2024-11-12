@@ -1,3 +1,17 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --light-pink: #cd9fa2;
+  --reddish: #995765;
+  --purple: #68274f;
+  --blue: #36356e;
+  --dark-blue: #110b3b;
+
+  /* Fonts */
+  /* Effects */
+}
+
+
 .math-with-date-specific-events,
 .math-with-date-specific-events * {
   box-sizing: border-box;
