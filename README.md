@@ -1,10 +1,21 @@
 # UMap
 
-Simple overview of use/purpose.
+UMap is an interactive campus map designed exclusively for UMass Amherst students. Key features include:
+
+Real-Time Event Map: Displays ongoing and upcoming events as interactive pins on a dynamic campus map.
+
+Personalized Recommendations: Provides event suggestions based on user preferences and past activity.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+UMap was developed using:
+
+Figma: We build the prototype from Figma and convert it into HTML/CSS Code
+
+Frontend: Built with React for a responsive and interactive user experience.
+
+Backend: Powered by Node.js, with data stored in a PostgreSQL database.
+
 
 ## Getting Started
 
